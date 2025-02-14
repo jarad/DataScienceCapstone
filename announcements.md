@@ -8,6 +8,7 @@
     - Project Goals (looking a week ahead)
     - Technology Plan (looking a few weeks ahead)
     - Team Evaluation (looking at the end of the semester)
+      - IMO class time is not being used optimally
 - MILESTONES.md documents
   - put paragraphs here
 - Monday plan
