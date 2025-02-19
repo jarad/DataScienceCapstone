@@ -1,5 +1,18 @@
 # Announcements
 
+## 2025-02-19
+
+- Surprise, I'm here!!
+- Peer Evaluation
+- shiny in R
+
+## 2025-02-17
+
+- W&F - Aditya Ranade will be here
+  - Attendance will still be taken
+- How did you like the 4 separate assignments?
+- 
+
 ## 2025-02-14
 
 - Milestone assignments due Sunday night
