@@ -1,5 +1,10 @@
 # Announcements
 
+## 2025-02-21
+
+- Peer Evaluation csv file improvement (16 to 19)
+- Add paragraphs to MILESTONES.md 
+
 ## 2025-02-19
 
 - Surprise, I'm here!!
