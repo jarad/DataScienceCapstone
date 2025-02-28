@@ -1,5 +1,14 @@
 # Announcements
 
+## 2025-02-28
+
+- Pick Data/Goal(s) and go with it
+
+## 2025-02-26
+
+- Peer Evaluation 
+- 
+
 ## 2025-02-21
 
 - Peer Evaluation csv file improvement (16 to 19)
