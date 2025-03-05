@@ -4,7 +4,7 @@ create_graphic <- function(file = "graphic.png", .clarity = NULL) {
   d <- readr::read_csv("combined.csv") 
   
   if (!is.null(.clarity)) {
-    d |> dplyr::filter(clarity == .clarity)
+    d <- d |> dplyr::filter(clarity == .clarity)
   }
   
   g <- ggplot(d, 
