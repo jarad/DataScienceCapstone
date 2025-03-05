@@ -17,3 +17,8 @@ Targets stores all intermediate objects in the _targets/ folder.
 These intermediate objects can be loaded. 
     
     tar_load(c(combined, all_graphic))
+    dim(combined)
+    all_graphic
+
+
+    

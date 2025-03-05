@@ -2,7 +2,7 @@ library("targets")
 library("tarchetypes") # for tar_file
 
 # Read in functions
-tar_source("R") # defaults to reading R/ folder
+tar_source() # defaults to reading R/ folder
 
 tar_option_set(
   packages = c("dplyr",
