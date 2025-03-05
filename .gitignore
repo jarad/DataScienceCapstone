@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.Rproj.user
+
+# Mac files
+.DS_Store
