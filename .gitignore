@@ -171,5 +171,9 @@ cython_debug/
 .pypirc
 .Rproj.user
 
+# R/RStudio files
+.Rhistory
+*.Rproj
+
 # Mac files
 .DS_Store
