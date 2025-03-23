@@ -1,16 +1,28 @@
+# Purpose: example streamlit dashboard using diamonds data set
+# Author:  Jarad Niemi
+# Date:    2025-03-23
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 
+###############################################################################
+# Read data
+###############################################################################
 
 diamonds = pd.read_csv('../../../data/diamonds.csv',
                        dtype={'color': 'category',
                               'cut': 'category'})
 
+
+###############################################################################
+# Dashboard
+###############################################################################
+
 st.title("Diamonds Exploratory Analysis")
 
 
-# User Input
+# User Input 
 st.sidebar.title('User inputs:')
 
 st.sidebar.write('Filter:')
@@ -43,6 +55,10 @@ logx = st.sidebar.checkbox("Log x-axis", value = False)
 logy = st.sidebar.checkbox("Log y-axis", value = False)
 
 
+###############################################################################
+# Output
+###############################################################################
+
 # Filter data
 d2 = diamonds[(slider[0] <= diamonds['carat']) & (diamonds['carat'] <= slider[1])] # R users note the 0-based indexing and lack of comma
 d  = d2[d2['clarity'].isin(clarity_categories)]
@@ -57,6 +73,7 @@ fig = d.plot.scatter(
     c = colorvar,
     colormap = 'viridis')
 
+# Jarad's attempt to get shapes (do we really have to use a loop?)
 # marker_map = {'Fair': 'o', 'Good': '+', 'Very Good': '*', 'Premium': 'p', 'Ideal': 'i'}
 
 # for category in diamonds['cut'].unique():
