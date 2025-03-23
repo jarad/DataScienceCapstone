@@ -93,8 +93,8 @@ if (logy):
     fig.set_yscale('log')
 
 plt.title('Diamonds')
-plt.xlabel('Carat')
-plt.ylabel('Price ($)')
+plt.xlabel('Carat')     # probably shouldn't hard code these since the user can change variables
+plt.ylabel('Price ($)') # ^
 
 st.pyplot(fig.figure)
 
