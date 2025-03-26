@@ -1,5 +1,16 @@
 # Announcements
 
+## 2025-03-26
+
+- Instructor traveling on Mar 31 & Apr 02 (Aditya Ranade will be covering)
+- Peer Feedback due tomorrow
+- Dashboard Sketch due Sunday
+
+## 2025-03-24
+
+- Reduced weekly reporting: one paragraph
+- Reduced Peer Feedback: every 2 weeks (only a couple more)
+
 ## 2025-02-28
 
 - Pick Data/Goal(s) and go with it
