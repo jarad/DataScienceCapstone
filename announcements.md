@@ -8,7 +8,7 @@
 
 ## 2025-03-24
 
-- Reduced weekly reporting: one paragraph
+- Reduced weekly reporting: ~1 paragraph on product
 - Reduced Peer Feedback: every 2 weeks (only a couple more)
 
 ## 2025-02-28
