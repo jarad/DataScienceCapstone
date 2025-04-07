@@ -1,5 +1,10 @@
 # Announcements
 
+## 2025-04-07
+
+- Peer Evaluation due on Thursday 
+- Add Models to Dashboard milestone due on Sunday
+
 ## 2025-03-26
 
 - Instructor traveling on Mar 31 & Apr 02 (Aditya Ranade will be covering)
