@@ -1,5 +1,10 @@
 # Announcements
 
+## 2025-04-09
+
+- Instructor out W & F next week
+- Monday discuss Peer 
+
 ## 2025-04-07
 
 - Peer Evaluation due on Thursday 
