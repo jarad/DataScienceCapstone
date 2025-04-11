@@ -4,8 +4,8 @@
 ################################################################################
 
 library("ggplot2")    # for diamonds data
-library("arrow")      # parquet/feather files
 library("readr")      # read_csv
+library("arrow")      # parquet/feather files
 
 library("rbenchmark") # for read-time comparisons
 
@@ -74,3 +74,20 @@ rm(diamonds_model, diamonds)
 ls() 
 load("diamonds_and_model.rdata")
 ls()
+
+
+################################################################################
+# Summary
+# 
+# - Choose file storage that suits your needs
+# 
+# - Raw data
+#   - Use plain text files
+#   - No duplicated information
+#   - Use version control
+#
+# - Production data
+#     - Use binary files for decreased storage and faster read/write
+#     - Generally don't version control binary files
+#     - If binary files get corrupted, you can lose everything
+
