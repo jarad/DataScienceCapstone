@@ -1,9 +1,12 @@
 # Announcements
 
+- Instructor out W & F next week
+- Monday discuss Dashboard Peer Feedback
+
 ## 2025-04-09
 
 - Instructor out W & F next week
-- Monday discuss Peer 
+- Monday discuss Dashboard Peer Feedback
 
 ## 2025-04-07
 
