@@ -11,3 +11,4 @@ Install required packages
 Change the directory to this directory and run
 
     streamlit run ./streamlit.py
+
