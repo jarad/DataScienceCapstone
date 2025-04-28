@@ -1,5 +1,58 @@
 # Announcements
 
+## 2025-04-05
+
+- Presentation expectations are similar to report expectations
+  - 16 minutes/group (~4 minutes/member)
+    - Every group member presents
+    - Practice yourself and transitions
+    - Group time strictly enforced
+  - Bring your own computer (test ahead of time)
+    - One per group
+  - Make it engaging to your classmates
+    - Powerpoint? (probably better than showing code)
+    - Live demonstration
+    - 
+
+## 2025-04-28
+
+- [Report expectations](report.md)
+  - Draft due on Sunday
+  - Final due Wednesday of Finals Week
+    - Modify based on Draft feedback
+- Instructor gone on Friday May 02
+
+
+## 2025-04-25
+
+- Dashboard Feedback in Team Discussion board
+  - Spend time discussing the feedback
+  - Spend time discussing "cool" aspects of other dashboards
+- Finalize Dashboard Milestone due Sunday
+- Report
+  - Draft due following Sunday
+  - Final due during Finals
+- Presentation
+  - Probably nothing to turn in
+- Dashboard
+  - One user input that affects something on the dashboard
+  - Some model
+  
+
+## 2025-04-23
+
+- Dashboard Feedback due Thursday (individual)
+  - Plan to give this to teams on Friday
+- Survey on Discussion Board
+- Mini-milestone checklist (for Sunday)
+
+
+## 2025-04-21
+
+- Dashboard Feedback due Thursday
+- Finalize Dashboard Milestone due Monday
+  - Audit MILESTONE.md
+
 ## 2025-04-14
 
 - Instructor out W & F this week
