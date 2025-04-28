@@ -3,6 +3,9 @@
 ## 2025-04-05
 
 - Presentation expectations are similar to report expectations
+  - Final Exam Time
+    - Wednesday May 14 7:30 - 9:30 am
+    - Attendance is mandatory
   - 16 minutes/group (~4 minutes/member)
     - Every group member presents
     - Practice yourself and transitions
