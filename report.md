@@ -86,7 +86,9 @@ Describe how the dashboard was constructed.
   - How do these outputs support the project goals?
   - What content changes as the user inputs are changed?
 - What technology was used to construct the dashboard?
-  - Assess (subjectively) this technology in terms of ease of use, features, and speed.
+  - What software is used for the dashboard?
+  - Where is the dashboard hosted?
+  - Assess (subjectively) these technologies in terms of ease of use, features, and speed.
 
 
 
