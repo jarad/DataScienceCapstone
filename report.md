@@ -10,9 +10,28 @@ Please mention anything that was unique to your group where relevant in the
 report. For example, the size of you data set. 
 Also describe investigated approaches that were ultimately not used. 
 
-## Data Pipeline
 
-### Data collection (ETL)
+## Format
+
+With the targt audience being new DS 4010 students, what would be an appropriate
+format?
+
+- md/html?
+- Word/pdf?
+
+Ultimately this should live in your repository
+
+## Length
+
+The writing should be 3-5 pages, 
+but including pictures and tables may make the report longer. 
+
+
+### Data Pipeline
+
+
+
+#### Data collection (ETL)
 
 Describe how the data were collected, cleaned, and transformed into a suitable
 format for use in the project.
@@ -32,7 +51,7 @@ Address the following questions:
 - How were the data stored for use in the dashboard?
   - How was efficiency (hard drive, load time, etc) considered in storage?
   
-### Modeling
+#### Modeling
 
 Describe the modeling used in the project include modeling attempts that were
 not (ultimately) included in the dashboard. 
@@ -52,7 +71,7 @@ not (ultimately) included in the dashboard.
   - If real-time, what can a user specify?
   - If pre-estimated, how are model results stored?
 
-### Dashboard
+#### Dashboard
 
 Describe how the dashboard was constructed.
 
@@ -71,12 +90,12 @@ Describe how the dashboard was constructed.
 
 
 
-## Application
+### Application
 
 Application, in this context, refers to the scientific question of interest and
 the intended audience.
 
-### Goal
+#### Goal
 
 Early in the report, likely before any data is discussed, describe the goal
 for the project.
@@ -86,18 +105,18 @@ for the project.
 - Who is the intended audience?
   - Who would be interested in your project?
   
-### Learning
+#### Learning
 
 - What did you learn about your application? 
   - What choices did you make? 
 - How well does the modeling support your project goals?
 
 
-## Discussion
+### Discussion
 
 Provide a summary of the overall project and backend pipeline.
 
-### Next steps
+#### Next steps
 
 - What would you have done if you had more time? 
   - Would you have...
@@ -105,8 +124,12 @@ Provide a summary of the overall project and backend pipeline.
     - built more sophisticated models?
     - improved the user experience?
   - How would you have made these changes?
+- Remind reader of unique aspects for your group
+  - PowerBi
+  - Large data
+  - Client
   
-### Availability
+#### Availability
 
 
 - Where can the code for the project be found? 
