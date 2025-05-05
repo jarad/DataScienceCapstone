@@ -3,9 +3,10 @@
 ## 2025-04-05
 
 - Presentation expectations are similar to report expectations
+  - Transfer of knowledge from you to your classmates
   - Final Exam Time
     - Wednesday May 14 7:30 - 9:30 am
-    - Attendance is mandatory
+    - Attendance is mandatory (30 points. 1pt off for every 4 mins late)
   - 16 minutes/group (~4 minutes/member)
     - Every group member presents
     - Practice yourself and transitions
@@ -14,8 +15,12 @@
     - One per group
   - Make it engaging to your classmates
     - Powerpoint? (probably better than showing code)
-    - Live demonstration
-    - 
+    - Live demonstration? YES!
+
+## 2025-04-30
+
+- Instructor gone on Friday May 02
+  - Aditya will be here
 
 ## 2025-04-28
 
