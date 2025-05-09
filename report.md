@@ -13,13 +13,14 @@ Also describe investigated approaches that were ultimately not used.
 
 ## Format
 
-With the targt audience being new DS 4010 students, what would be an appropriate
-format?
+Source format should be a form of markdown, e.g. Rmarkdown, Quarto, Python-Markdown.
+Compiled format should be HTML. 
+Both should be pushed to your repository. 
+Include figures, e.g. screenshots, to demonstrate your dashboard and model. 
+Include snippets of code, e.g. model estimation, using appropriate 
+code formatting, e.g. syntax highlighting. 
+Write using complete sentences and paragraphs. 
 
-- md/html?
-- Word/pdf?
-
-Ultimately this should live in your repository
 
 ## Length
 
